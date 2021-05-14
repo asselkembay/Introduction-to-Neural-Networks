@@ -23,3 +23,10 @@ https://scholar.google.com/citations?hl=en&user=kNKh8b4AAAAJ
 https://scholar.google.com/citations?hl=en&user=YyE56x8AAAAJ
 
 31-40
+
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+
+https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
+
+https://cs231n.github.io/neural-networks-case-study/
+
